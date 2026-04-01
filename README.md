@@ -7,7 +7,7 @@ Users can be selected from a list and viewed in a detailed card layout.
 
 ## 🚀 Live Demo
 
-👉 (Add your deployed link here after deployment)
+👉 (http://ansfaiz.userdashboardreact/)
 
 ---
 
@@ -69,7 +69,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/ansfaiz/userDashboard
+git clone https://github.com/ansfaiz/user-dashboard-react
 
 # Navigate to project folder
 cd your-repo-name
