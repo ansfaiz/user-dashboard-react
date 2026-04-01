@@ -7,7 +7,7 @@ Users can be selected from a list and viewed in a detailed card layout.
 
 ## 🚀 Live Demo
 
-👉 (http://ansfaiz.userdashboardreact/)
+👉 (https://user-dashboard-react-zeta.vercel.app/#)
 
 ---
 
